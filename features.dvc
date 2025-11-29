@@ -1,0 +1,6 @@
+outs:
+- md5: bd633751345961ecb6885af936d0a6dd.dir
+  size: 6868792
+  nfiles: 2
+  hash: md5
+  path: features
